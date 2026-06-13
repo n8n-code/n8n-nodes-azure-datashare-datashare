@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-datashare-datashare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a Microsoft.DataShare management client.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-datashare-datashare",
